@@ -27,6 +27,7 @@
   {options}
   {dropzoneClass}
   {hooveringClass}
+  {autoDiscover}
   {id}>
   <slot>
     <p class="dropzoneDefaultSentence">
